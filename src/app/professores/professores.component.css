@@ -1,0 +1,28 @@
+
+h2#curso.curso{
+    text-align: center;
+    border: 4px double blueviolet;
+    background-color: yellowgreen;
+    margin-left: 20%;
+
+}
+
+.curso {
+    text-align: left;
+    border-bottom: 2px solid yellowgreen;
+    margin-bottom: 30px;
+    margin-right: 100px;
+    padding: 5px;
+}
+
+.descricao{
+    text-align: justify;
+    margin-bottom: 70px;
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 300px;
+    padding: 5px;
+}
